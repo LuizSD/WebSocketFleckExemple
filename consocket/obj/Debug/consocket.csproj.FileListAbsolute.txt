@@ -1,0 +1,9 @@
+C:\git\consocket\consocket\bin\Debug\consocket.exe.config
+C:\git\consocket\consocket\bin\Debug\consocket.exe
+C:\git\consocket\consocket\bin\Debug\consocket.pdb
+C:\git\consocket\consocket\bin\Debug\websocket-sharp.dll
+C:\git\consocket\consocket\bin\Debug\websocket-sharp.xml
+C:\git\consocket\consocket\obj\Debug\consocket.csprojResolveAssemblyReference.cache
+C:\git\consocket\consocket\obj\Debug\consocket.exe
+C:\git\consocket\consocket\obj\Debug\consocket.pdb
+C:\git\consocket\consocket\bin\Debug\Fleck.dll
